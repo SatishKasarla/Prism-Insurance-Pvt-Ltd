@@ -1,4 +1,4 @@
-# Prism-Insurance-Pvt-Ltd Power BI
+# Prism-Insurance-Pvt-Ltd 
 
 1. Project Title / Headline
 
